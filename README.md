@@ -47,10 +47,14 @@ Markdown Tutorial
   
 
   ## Favorite Terms
+  
+ "[definiton]" = cited from Dictionary 
 
 | Terms | Definitions |
 |:-| :----: |
-| Term 1 | Definition 1 |
-| Term 2 | Definition 2 |
-| Term 3 | Definition 3 | 
-| Term 4 | Definition 4 |
+| Floccinaucinihilipilification | "the action or habit of estimating something as worthless" |
+| Defenestrate | The act of throwing an inanimate or animate object out of a window |
+| Neutrality | "absence of decided views, expression, or strong feeling" | 
+| Rainfall | the falling of rain (usually from the sky, I at least hope so) |
+
+
