@@ -39,8 +39,11 @@ Markdown Tutorial
   ## Persons of Interests
 
   [Gruficlath][1]<br>
+  <img src="https://github.com/DominicB3/AboutMe/blob/main/gruficlath.png"><br>
   [Wrenmir][2]<br>
+  <img src="https://github.com/DominicB3/AboutMe/blob/main/wrenmir.png"><br>
   [DominicB4][3]<br>
+  <img src="https://github.com/DominicB3/AboutMe/blob/main/domincb4.png"><br>
   
 
   ## Favorite Terms
