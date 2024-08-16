@@ -33,6 +33,16 @@ Markdown Tutorial
 
   [Youtube Music](https://music.youtube.com/)
 
+  [1]: https://github.com/GlitchyCrafting
+  [2]: https://github.com/Wrenmir
+  [3]: https://github.com/DominicB4
+  ## Persons of Interests
+
+  [Gruficlath][1]
+  [Wrenmir][2]
+  [DominicB4][3]
+  
+
   ## Favorite Terms
 
 | Terms | Definitions |
