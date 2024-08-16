@@ -17,7 +17,7 @@ Markdown Tutorial
 
   1. Showering
   2. Lying down and checking messages
-  3. Spend time reading, drawing, or playing mobile games
+  3. Spend time reading, drawing, or playing games
  
   ## My Motto
   
