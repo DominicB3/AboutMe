@@ -38,9 +38,9 @@ Markdown Tutorial
   [3]: https://github.com/DominicB4
   ## Persons of Interests
 
-  [Gruficlath][1]
-  [Wrenmir][2]
-  [DominicB4][3]
+  [Gruficlath][1]<br>
+  [Wrenmir][2]<br>
+  [DominicB4][3]<br>
   
 
   ## Favorite Terms
